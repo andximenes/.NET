@@ -1,0 +1,15 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\bin\Debug\net8.0\01 - Calcula idade.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\bin\Debug\net8.0\01 - Calcula idade.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\bin\Debug\net8.0\01 - Calcula idade.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\bin\Debug\net8.0\01 - Calcula idade.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\bin\Debug\net8.0\01 - Calcula idade.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\obj\Debug\net8.0\01 - Calcula idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\obj\Debug\net8.0\01 - Calcula idade.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\obj\Debug\net8.0\01 - Calcula idade.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\obj\Debug\net8.0\01 - Calcula idade.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\obj\Debug\net8.0\01 - Calcula idade.sourcelink.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\obj\Debug\net8.0\01 - Calcula idade.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\obj\Debug\net8.0\refint\01 - Calcula idade.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\obj\Debug\net8.0\01 - Calcula idade.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\obj\Debug\net8.0\01 - Calcula idade.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\01 - Calcula idade\obj\Debug\net8.0\ref\01 - Calcula idade.dll

@@ -1,0 +1,14 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\bin\Debug\net8.0\inicio - dotnetCSharp.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\bin\Debug\net8.0\inicio - dotnetCSharp.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\bin\Debug\net8.0\inicio - dotnetCSharp.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\bin\Debug\net8.0\inicio - dotnetCSharp.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\bin\Debug\net8.0\inicio - dotnetCSharp.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\obj\Debug\net8.0\inicio - dotnetCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\obj\Debug\net8.0\inicio - dotnetCSharp.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\obj\Debug\net8.0\inicio - dotnetCSharp.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\obj\Debug\net8.0\inicio - dotnetCSharp.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\obj\Debug\net8.0\inicio - dotnetCSharp.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\obj\Debug\net8.0\refint\inicio - dotnetCSharp.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\obj\Debug\net8.0\inicio - dotnetCSharp.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\obj\Debug\net8.0\inicio - dotnetCSharp.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\inicio - dotnetCSharp\obj\Debug\net8.0\ref\inicio - dotnetCSharp.dll
