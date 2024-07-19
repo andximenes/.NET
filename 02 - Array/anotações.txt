@@ -1,0 +1,21 @@
+class Program
+{
+    static void Main(String[] args)
+    {
+        Console.writeLine(args[0]);
+        Console.writeLine(args[1]);
+    }
+}
+
+//string[]; Array
+//args; nome do Array
+
+//Para passar um argumento precisamos executar:
+
+dotnet run -- maçã
+
+//Esse código adicionará a string "maçã" na posição [0] do array.
+//Para adicionar mais elementos no Array, devemos apenas separar os elementos da string através do espaço.
+
+dotnet run -- maçã uva
+

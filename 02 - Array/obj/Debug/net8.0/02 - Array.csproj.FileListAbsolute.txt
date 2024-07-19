@@ -1,0 +1,15 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\bin\Debug\net8.0\02 - Array.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\bin\Debug\net8.0\02 - Array.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\bin\Debug\net8.0\02 - Array.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\bin\Debug\net8.0\02 - Array.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\bin\Debug\net8.0\02 - Array.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\obj\Debug\net8.0\02 - Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\obj\Debug\net8.0\02 - Array.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\obj\Debug\net8.0\02 - Array.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\obj\Debug\net8.0\02 - Array.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\obj\Debug\net8.0\02 - Array.sourcelink.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\obj\Debug\net8.0\02 - Array.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\obj\Debug\net8.0\refint\02 - Array.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\obj\Debug\net8.0\02 - Array.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\obj\Debug\net8.0\02 - Array.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\02 - Array\obj\Debug\net8.0\ref\02 - Array.dll
