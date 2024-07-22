@@ -9,3 +9,9 @@
 	3.1 - Pesquise no Google por .net
 	3.2 - Download SDK X64
 
+4 - Vs code como editor de código
+
+5 - instalando a extenções para usar o dotnet no vs code
+
+
+

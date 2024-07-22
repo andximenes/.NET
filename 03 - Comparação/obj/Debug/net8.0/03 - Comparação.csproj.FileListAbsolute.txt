@@ -1,0 +1,15 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\bin\Debug\net8.0\03 - Comparação.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\bin\Debug\net8.0\03 - Comparação.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\bin\Debug\net8.0\03 - Comparação.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\bin\Debug\net8.0\03 - Comparação.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\bin\Debug\net8.0\03 - Comparação.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\obj\Debug\net8.0\03 - Comparação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\obj\Debug\net8.0\03 - Comparação.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\obj\Debug\net8.0\03 - Comparação.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\obj\Debug\net8.0\03 - Comparação.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\obj\Debug\net8.0\03 - Comparação.sourcelink.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\obj\Debug\net8.0\03 - Comparação.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\obj\Debug\net8.0\refint\03 - Comparação.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\obj\Debug\net8.0\03 - Comparação.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\obj\Debug\net8.0\03 - Comparação.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\03 - Comparação\obj\Debug\net8.0\ref\03 - Comparação.dll
