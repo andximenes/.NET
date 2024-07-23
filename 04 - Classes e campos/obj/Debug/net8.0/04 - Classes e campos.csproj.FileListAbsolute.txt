@@ -1,0 +1,15 @@
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\bin\Debug\net8.0\04 - Classes e campos.exe
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\bin\Debug\net8.0\04 - Classes e campos.deps.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\bin\Debug\net8.0\04 - Classes e campos.runtimeconfig.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\bin\Debug\net8.0\04 - Classes e campos.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\bin\Debug\net8.0\04 - Classes e campos.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\obj\Debug\net8.0\04 - Classes e campos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\obj\Debug\net8.0\04 - Classes e campos.AssemblyInfoInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\obj\Debug\net8.0\04 - Classes e campos.AssemblyInfo.cs
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\obj\Debug\net8.0\04 - Classes e campos.csproj.CoreCompileInputs.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\obj\Debug\net8.0\04 - Classes e campos.sourcelink.json
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\obj\Debug\net8.0\04 - Classes e campos.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\obj\Debug\net8.0\refint\04 - Classes e campos.dll
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\obj\Debug\net8.0\04 - Classes e campos.pdb
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\obj\Debug\net8.0\04 - Classes e campos.genruntimeconfig.cache
+C:\Users\André Ximenes\OneDrive\Documentos\Programacao\C#\04 - Classes e campos\obj\Debug\net8.0\ref\04 - Classes e campos.dll
