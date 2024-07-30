@@ -13,5 +13,9 @@
 
 5 - instalando a extenções para usar o dotnet no vs code
 
+Comandos CLI
 
+dotnet --version (versão)
+
+dotnet --list-sdks (Lista as verões dos kits de desenvolvimentos instalados)
 
